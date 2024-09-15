@@ -1,0 +1,12 @@
+{
+  "name": "terraform-tutorial",
+  "version": "1.0.0",
+  "description": "(`Terraform v1.9.5`)",
+  "main": "index.js",
+  "scripts": {
+    "format": "terraform fmt -recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
