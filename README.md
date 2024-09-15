@@ -4,7 +4,8 @@
 ![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## All the chapters from this repository has been written in the terraform with all necessary resources and checked in
+## Descriptions
+- All the chapters from this repository has been written in the terraform with all necessary resources and checked in
 AWS account
 
 ## Resources
