@@ -10,6 +10,7 @@
 ## Chapters
 - [VPC](src/01_vpc/README.md)
 - [Subnets](src/02_subnets/README.md)
+- [IGW Internet Gateway](src/03_internet_gateway/README.md)
 
 ```bash
   terraform init
